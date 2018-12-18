@@ -1,0 +1,7 @@
+trying to test the basic command of vim
+this is first line
+sencond line
+third
+hate the finalhate hate you
+hello world
+add something so that to make it new
